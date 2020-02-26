@@ -1,0 +1,68 @@
+body {
+  background: url('http://s1.1zoom.me/b5050/893/_463732_1920x1080.jpg') no-repeat fixed;
+}
+
+
+#main{
+  width: 60%;
+  margin: 1% auto;
+  border-radius: 1%;
+  padding: 2% auto;
+}
+
+#title, #description{
+  margin: 0 auto;
+  padding: 0 3%;
+  width: 30%;
+  color: #f3f3f3;
+}
+
+#survey-form {
+  margin: 2% auto;
+  padding: 2% 3%;
+  width: 70%;
+  background-color: #10101085;
+  border-radius: 1%;
+}
+
+.input-field {
+  margin: 0 auto;
+  color: #f3f3f3;
+}
+
+label {
+  margin: 5% 3%;
+}
+
+input[type="text"], input[type="email"], input[type="number"] {
+  width: 88%;
+  margin: 2% 3%;
+}
+
+select {
+  width: 90%;
+  margin: 2% 3%;
+}
+
+input[type="checkbox"], input[type="radio"] {
+  margin: 2% 3%;
+  padding: 2% 0;
+}
+
+textarea, .comment-label {
+  margin: 2% 3%;
+}
+
+textarea {
+  width: 89%;
+  height: 120px;
+}
+
+button {
+  width: 90%;
+  margin: 2% 3%;
+  padding: 1%;
+  background-color: #03925e;
+  color: #f3f3f3;
+  border: none;
+}
